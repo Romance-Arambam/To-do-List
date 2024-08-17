@@ -1,0 +1,31 @@
+*{
+    background-color: #126ca4 ;
+    color:white;
+}
+#Outerdiv{
+    padding-left: 5%;
+}
+h2{
+    padding-top: 5%;
+    padding-bottom: 2%;
+    font-size: 2rem; 
+}
+li{
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+    padding-left: 0%;
+}
+input{
+    background-color: bisque;
+    border-radius: 5px;
+    border: bisque solid 1px;
+    color:rgb(48, 45, 45);
+    height: 1.7rem;
+}
+button{
+    background-color: rgb(194, 240, 9);
+    border-radius: 7px;
+    color: rgb(41, 36, 36);
+    margin-left: 10px;
+    height:1.5rem;
+}
