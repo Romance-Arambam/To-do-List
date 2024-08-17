@@ -23,9 +23,13 @@ input{
     height: 1.7rem;
 }
 button{
-    background-color: rgb(194, 240, 9);
+    background-color: rgb(170, 210, 13);
     border-radius: 7px;
     color: rgb(41, 36, 36);
     margin-left: 10px;
     height:1.5rem;
+}
+button:hover{
+    cursor: pointer;
+    background-color:rgb(206, 247, 43);
 }
